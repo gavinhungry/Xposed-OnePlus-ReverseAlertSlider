@@ -12,7 +12,7 @@
       android:value="true" />
     <meta-data
       android:name="xposeddescription"
-      android:value="Reverse the Alert Slider direction of the OnePlus 2 (OxygenOS)" />
+      android:value="Reverse the direction of the OnePlus 2 Alert Slider (OxygenOS)" />
     <meta-data
       android:name="xposedminversion"
       android:value="54" />
