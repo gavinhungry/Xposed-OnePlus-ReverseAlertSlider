@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="io.gavinhungry.xposed.oneplus.reversealertslider"
+    android:versionCode="0"
+    android:versionName="0.0.0">
+
+  <uses-sdk android:minSdkVersion="22" />
+
+  <application android:label="Reverse Alert Slider">
+    <meta-data
+      android:name="xposedmodule"
+      android:value="true" />
+    <meta-data
+      android:name="xposeddescription"
+      android:value="Reverse the Alert Slider direction of the OnePlus 2 (OxygenOS)" />
+    <meta-data
+      android:name="xposedminversion"
+      android:value="54" />
+  </application>
+</manifest>
