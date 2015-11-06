@@ -1,7 +1,8 @@
 OnePlus-Xposed-ReverseAlertSlider
 =================================
 Xposed module to reverse the Alert Slider direction of the OnePlus 2 on
-OxygenOS. This module also disables the notification when moving the slider.
+OxygenOS. This module also disables the toast notification when moving the
+slider.
 
 Build
 -----
